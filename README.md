@@ -15,4 +15,8 @@ Click on Download ZIP
 
 Unzip the downloaded file
 
+```
+python -m pip install -r requirements.txt
+```
+
 Execute the main.py file
