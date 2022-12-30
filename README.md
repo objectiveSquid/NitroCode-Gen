@@ -7,16 +7,21 @@ cd NitroCode-Gen
 pip3 install -r requirements.txt
 python3 main.py
 ```
-Windows:
----
-Click on <> Code
+  ### 🪟Windows🪟
+  Install python from here:
+  [Python Windows downloads](https://www.python.org/downloads/windows/)
+  Open a command prompt window
+  ```
+  curl https://codeload.github.com/Venu2HD/DallE-2-Python/zip/refs/heads/main -o %USERPROFILE%\Downloads\DallE-2-Python.zip
+  ```
+  Unzip the file like so:
 
-Click on Download ZIP
+  ![unzip0](https://cdn.discordapp.com/attachments/1027204530644988004/1046756929185259530/unzip.jpg)
 
-Unzip the downloaded file
+  ![unzip1](https://cdn.discordapp.com/attachments/1027204530644988004/1046759736906874941/unzip.png)
 
-```
-python -m pip install -r requirements.txt
-```
+  Replace the YOUR_API_KEY in settings.json with your secret key which you can get here:
 
-Execute the main.py file
+  [How to get openai secret key](https://beta.openai.com/account/api-keys)
+
+  Then run the main.py file.
