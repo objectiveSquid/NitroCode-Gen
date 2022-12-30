@@ -31,9 +31,4 @@
 
   ![unzip1](https://cdn.discordapp.com/attachments/1027204530644988004/1046759736906874941/unzip.png)
   
-  Reopen to the previous command prompt window
-  ```
-  cd %USERPROFILE%\Downloads\NitroCode-Gen-main
-  py -m pip install -r requirements.txt
-  py main.py
-  ```
+  Run the main.py file
