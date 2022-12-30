@@ -5,8 +5,7 @@
   sudo apt-get install python3-pip
   sudo apt-get install python3
   git clone https://github.com/Venu2HD/NitroCode-Gen.git
-  cd DallE-2-Python
-  pip3 install -r requirements.txt
+  cd NitroCode-Gen
   python3 main.py
   ```
   ### 🍎MacOS🍎
@@ -15,7 +14,7 @@
   [Python macOS downloads](https://www.python.org/downloads/macos/)
   ```
   git clone https://github.com/Venu2HD/NitroCode-Gen.git
-  cd DallE-2-Python
+  cd NitroCode-Gen
   python3 main.py
   ```
   ### 🪟Windows🪟
